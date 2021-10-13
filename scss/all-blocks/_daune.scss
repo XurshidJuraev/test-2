@@ -1,0 +1,81 @@
+.daune .container{
+    background-color: #2C343E;
+    height: 577px;
+    width: 1240px;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 250px;
+}
+
+.daune_wrapper{
+    color: #ffffff;
+}
+.daune__heading{
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.daune__heading-text{
+    display: flex;
+    justify-content: center;
+    width: 540px;
+    height: 80px;
+    align-items: center;
+    text-align: center;
+    opacity: 0.6;
+    margin-left: 328px;
+}
+.wraapps{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.wraapps__item{
+    position: absolute;
+    width: 350px;
+    height: 382px;
+    left: 45px;
+    background: #0E8784;
+    border-radius: 8px;
+}
+.ofer{
+    margin-left: 132px;
+    margin-top: 72px;
+}
+.wraapps__item2{
+    position: absolute;
+    width: 350px;
+    left: 445px;
+    height: 382px;
+    background: #0E8784;
+    border-radius: 8px;
+}
+.wraapps__item3{
+    position: absolute;
+    width: 350px;
+    height: 382px;
+    background: #0E8784;
+    border-radius: 8px;
+    left: 845px;
+    padding-top: 43px;
+}
+.ofet__text{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #FEFCF7;
+}
+.ofer_paragraf{
+    width: 255px;
+    height: 78px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FEFCF7;
+    margin-left: 47px;  
+}

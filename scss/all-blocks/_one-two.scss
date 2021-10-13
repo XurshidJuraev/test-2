@@ -1,0 +1,41 @@
+.one-two__list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.one-two__list_item{
+    width: 285px;
+}
+.bir{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+    margin-bottom: 38px;
+}
+.paragraf__one-two{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+.text__one-two{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.button-all2{
+    width: 217px;
+    height: 56px;
+    color: #ffffff;
+    margin-top: 50px;
+    border: none;
+    background-color: #0e8784;
+    margin-left: 35px;
+    border-radius: 8px;
+    margin-bottom: 216px;
+}

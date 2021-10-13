@@ -1,0 +1,20 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+}
+.item{
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: #5d5d5d;
+}
+.item:hover{
+    transition: all 0.3s ease;
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,39 @@
+.background{
+    background-image: url("./../img/bground.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 10px;
+    background-size: cover;
+}
+.heading-one{
+    padding-top: 117px;
+    margin-left: 85px;
+    font-size: 72px;
+    max-width: 425px;
+    min-width: 279px;
+    color: #ffffff;
+}
+.bgc-text{
+    margin-left: 85px;
+    color: #ffffff;
+    opacity: 0.50;
+    width: 445px;
+}
+.button-all{
+    width: 217px;
+    height: 56px;
+    color: #ffffff;
+    margin-top: 50px;
+    border: none;
+    background-color: #0e8784;
+    margin-left: 85px;
+        border-radius: 8px;
+    }
+@media only screen and (max-width: 375px) {
+    .background{
+        padding-top: 100px;
+        margin-left: 24px;
+        font-size: 24px;
+    }
+
+}

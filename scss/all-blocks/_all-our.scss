@@ -1,0 +1,45 @@
+.all-our{
+    background-image: url("./../img/text.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: contain;
+    justify-content: space-between;
+}
+.uel{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.lee{
+    width: 255px;
+    height: 400px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.lee:nth-child(3){
+    width: 240px;
+}
+.lee:nth-child(4){
+    width: 240px;
+}
+.heading-four{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #333D4B;
+}
+.all-our-p-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #333D4B;
+}
+.qop{
+    margin-bottom: -45px;
+}
